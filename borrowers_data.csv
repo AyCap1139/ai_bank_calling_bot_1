@@ -1,0 +1,6 @@
+wants_reminder,pending_amount,loan_id,phone_number,loan_amount,responded,took_loan,reason,name,last_due_date
+Yes,7500,L1001,+919059950107,25000,Yes,Yes,Collector didn’t come,Rajesh Kumar,2025-08-01
+,15000,L1002,+919876543210,30000,,,,Sunita Devi,2025-07-30
+,5000,L1003,+919112233445,20000,,,,Ramesh Yadav,2025-08-03
+,3000,L1004,+919998877665,15000,,,,Aarti Kumari,2025-08-02
+,2000,L1005,+918910881616,10000,,,,Mahesh Singh,2025-07-31
